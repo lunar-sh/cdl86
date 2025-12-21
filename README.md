@@ -21,7 +21,7 @@
 It allows for the interception of `x86` and `x86_64` `C/C++` binary functions in memory following code injection.
 
 Currently the following platforms are supported:
-- `Linux`
+- `Linux (Ubuntu)`
 - `MS Windows`
 
 The library currently supports two types of function hooks:
@@ -130,4 +130,5 @@ Folders:
 |                                       |
 +---------------------------------------+
 ```
+
 
