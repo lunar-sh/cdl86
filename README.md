@@ -101,11 +101,11 @@ The compiler used for this project is [`tcc`](https://github.com/lunar-sh/tcc).
 
 Files:
 <br/>
-* `cdl.c` - `C` source file for `CDL`.
-* `cdl.h` - `CDL` header file to include.
+* `cdl.c` - `C` source file for `CDL`
+* `cdl.h` - `CDL` header file to include
 
 Folders:
-* `/tests` - `CDL` test suite.
+* `/tests` - `CDL` test suite
 
 # Signature
 
@@ -130,6 +130,7 @@ Folders:
 |                                       |
 +---------------------------------------+
 ```
+
 
 
 
