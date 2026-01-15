@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #include "cdl.h"
 
 typedef int add_t(
