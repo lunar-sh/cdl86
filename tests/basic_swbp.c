@@ -1,3 +1,32 @@
+/**
+ * @file basic_swbp.c
+ * @brief cdl86 asm swbp unit test
+ *
+ * cdl86
+ * Experimental Linux/Windows x86/x86_64 detours library.
+ * Author: Dylan Müller
+ *
+ * +---------------------------------------+
+ * |     .-.       .-.       .-.           |
+ * |    /   \     /   \     /   \     +    |
+ * |         \   /     \   /     \   /     |
+ * |          "_"       "_"       "_"      |
+ * |                                       |
+ * |  _   _   _ _  _   _   ___   ___ _  _  |
+ * | | | | | | | \| | /_\ | _ \ / __| || | |
+ * | | |_| |_| | .` |/ _ \|   /_\__ \ __ | |
+ * | |____\___/|_|\_/_/ \_\_|_(_)___/_||_| |
+ * |                                       |
+ * |                                       |
+ * | Lunar RF Labs                         |
+ * | https://lunar.sh                      |
+ * |                                       |
+ * | Research Laboratories                 |
+ * | Donate XMR @ lunar.sh (OpenAlias)     |
+ * | Copyright (C) 2022-2024               |
+ * +---------------------------------------+
+ */
+
 #include <stdio.h>
 
 #include "cdl.h"
@@ -52,3 +81,4 @@ int main(
 
     return 0;
 }
+
