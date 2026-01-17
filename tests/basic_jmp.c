@@ -1,4 +1,11 @@
-/*
+/**
+ * @file basic_jmp.c
+ * @brief cdl86 asm jmp patch unit test
+ *
+ * cdl86
+ * Experimental Linux/Windows x86/x86_64 detours library.
+ * Author: Dylan Müller
+ *
  * +---------------------------------------+
  * |     .-.       .-.       .-.           |
  * |    /   \     /   \     /   \     +    |
@@ -74,4 +81,5 @@ int main(
 
     return 0;
 }
+
 
