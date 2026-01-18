@@ -21,7 +21,7 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | Research Laboratories                 |
- * | Donate XMR @ lunar.sh (OpenAlias)     |
+ * | Donate XMR @ 'lunar.sh' (OpenAlias)   |
  * | Copyright (C) 2022-2024               |
  * +---------------------------------------+
  *
@@ -182,5 +182,6 @@ CDL86_EXTERN_C void cdl_swbp_dbg(
 );
 
 #endif
+
 
 
