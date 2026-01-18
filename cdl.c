@@ -21,7 +21,7 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | Research Laboratories                 |
- * | Donate XMR @ 'lunar.sh' (OpenAlias)   |
+ * | OpenAlias (BTC, XMR): lunar.sh        |
  * | Copyright (C) 2022-2024               |
  * +---------------------------------------+
  *
@@ -973,6 +973,7 @@ size_t len_disasm(
 
     return (size_t)((ptrdiff_t)(++b + offset) - (ptrdiff_t)(address));
 }
+
 
 
 
