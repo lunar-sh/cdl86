@@ -123,13 +123,14 @@ Folders:
 |                                       |
 |                                       |
 | Lunar RF Labs                         |
-| https://lunar.sh                      |
+| Email: root@lunar.sh                  |
 |                                       |
 | Research Laboratories                 |
 | OpenAlias (BTC, XMR): lunar.sh        |
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```
+
 
 
 
