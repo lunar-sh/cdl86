@@ -12,6 +12,7 @@
 > **Demo Projects** <br>
 > [`gsctool`](https://github.com/lunar-sh/gsctool)
 > [`cs2rec`](https://github.com/FASTCUP/cs2rec)
+> [`bo1zt`](https://github.com/idircarlos/bo1zt)
 
 # Abstract
 `cdl86` is a tiny, single file, cross platform `detours` library written in `C` in less than `1K` lines.
