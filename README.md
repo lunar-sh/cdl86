@@ -32,6 +32,12 @@ Handles `control flow` to `detour`
 
 > Note: This project makes use of an internal `x86` instruction length disassembly engine.
 
+# Build
+
+Both `Makefile` and `premake5` build targets are supported.
+
+For `premake5` simply run `premake5 vs2022` in the project root directory.
+
 # API
 ```
 struct cdl_jmp_patch cdl_jmp_attach(void **target, void *detour);

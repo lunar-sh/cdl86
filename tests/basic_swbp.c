@@ -60,7 +60,7 @@ int main(
     __in void
 )
 {
-    struct cdl_swbp_patch swbp_patch = {};
+    struct cdl_swbp_patch swbp_patch = {0};
     addo = (add_t*)add;
 
     printf("Before attach: \n");
