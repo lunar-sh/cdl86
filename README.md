@@ -36,7 +36,7 @@ Handles `control flow` to `detour`
 
 Both `Makefile` and `premake5` build targets are supported.
 
-For `premake5` simply run `premake5 vs2022` in the project root directory.
+For `premake5` simply run `premake5 vs2022` in the project root directory and build with `msbuild`.
 
 # API
 ```
